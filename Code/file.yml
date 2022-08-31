@@ -9,6 +9,30 @@ columns:
     coerce: false
     required: true
     regex: false
+  budget:
+    dtype: int64
+    nullable: false
+    checks: null
+    unique: false
+    coerce: false
+    required: true
+    regex: false
+  revenue:
+    dtype: int64
+    nullable: false
+    checks: null
+    unique: false
+    coerce: false
+    required: true
+    regex: false
+  net:
+    dtype: int64
+    nullable: false
+    checks: null
+    unique: false
+    coerce: false
+    required: true
+    regex: false
   original_title:
     dtype: str
     nullable: false

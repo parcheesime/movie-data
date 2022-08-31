@@ -64,7 +64,7 @@ dtypes: float64(4), int64(6), object(11)
 This project uses Pandas, NumPy, Matplotlib, and other libraries to wrangle, explore, analyze and communicate data.
 
 - 3 separate jupyter notebook files
-- 3 spearate .py files for function used in the ipynb files
+- 3 spearate .py files for functions used in the ipynb files
 
 ### Acknowledgments
 
